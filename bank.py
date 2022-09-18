@@ -1,3 +1,5 @@
+# 220535601751 - Muhammad Abdul Aziz - S1 TI B 
+
 greeting = input("Greeting : ").strip().lower()
 
 if greeting=="hello" :
